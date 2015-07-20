@@ -1,2 +1,3 @@
 # hello-world
-my first rppository
+==============
+my first rppository, seeking to introduce me to the world of reproducible and transparent ressearch
